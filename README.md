@@ -4,7 +4,7 @@ Entre em contato ou saiba mais:
 
 ------
 
-Tecnologias que uso/gosto:
+Principais tecnologias que uso/gosto:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 - Atualmente estou estudando Kotlin  e trabalhando um um projeto open-source para aplicar e aperfeiçoar todo esse novo conhecimento saiba mais sobre esse projeto [aqui](https://github.com/GilianMarques/Compras).
@@ -12,6 +12,6 @@ Tecnologias que uso/gosto:
 - Java foi meu primeiro contato com a progamação lá em 2016, não utilizo em nenhum projeto atualmente mas ja programei bastante tanto para android quanto para windows. Os dois [apps que tenho na Playstore](https://play.google.com/store/apps/developer?id=Simple%20Solutions%20lab) foram escritos 100% em Java
 
 - C# é a tecnologia que menos domino, ainda sim consegui fazer bom uso dela. Atualmente trabalho em uma empresa de comunicação visual como designer industrial e aproveitei meus conhecimentos em programação para contribuir criando uma aplicação em WPF que integra o [Trello](https://trello.com/), o [Conta Azul](https://contaazul.com/) e o servidor local da empresa  e um único lugar para facilitar o controle do fluxo de serviços.
-- Realm é o melhor Database do mundo 😁! Usei nos últimos projeto em Java e gosto bastante. Atualmente uso o [Room](https://developer.android.com/training/data-storage/room) nos meu projetos mas apenas para fins de estudo.
+- Realm é o melhor Database do mundo 😁! Usei nos últimos projetos e gosto bastante. Atualmente uso o [Room](https://developer.android.com/training/data-storage/room) nos meu projetos mas apenas para fins de estudo.
 ----
 
