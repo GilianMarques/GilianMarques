@@ -10,7 +10,7 @@ Principais tecnologias que uso/gosto:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-- Atualmente estou estudando Kotlin, Jetpack, Coroutines, Room, Retrofit, entre outras tecnologias voltadas ao desenvolvimento nativo e trabalhando em [projetos open-source](https://github.com/stars/GilianMarques/lists/kotlin-open-source) para aplicar e aperfeiçoar todo esse novo conhecimento.
+- Atualmente estou estudando Kotlin, Jetpack, Coroutines, Room, Retrofit, entre outras tecnologias voltadas ao desenvolvimento nativo e trabalhando para aperfeiçoar todo esse novo conhecimento.
 
 - Java foi meu primeiro contato com a progamação lá em 2016, não utilizo em nenhum projeto atualmente mas ja programei bastante tanto para android quanto para windows. Os dois [apps que tenho na Playstore](https://play.google.com/store/apps/developer?id=Simple%20Solutions%20lab) foram escritos 100% em Java.
 
